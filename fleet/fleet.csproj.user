@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Adim_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_addvechile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_add_staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_assignvech.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_collection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_deletevechile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_maintanens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_staffmaintanens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_staffupdates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_changepass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_mainte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_trip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
